@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ginásios em potencial</name>
+    <Style id="icon-1899-F57C00-nodesc-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-nodesc-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Praça C-171 (Square)</name>
+      <styleUrl>#icon-1899-F57C00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.274055,-16.717704,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parque Vaca Brava</name>
+      <styleUrl>#icon-1899-F57C00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.271204,-16.709242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alberto Rassi</name>
+      <styleUrl>#icon-1899-F57C00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.268226,-16.678187,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Praça do Ratinho</name>
+      <styleUrl>#icon-1899-F57C00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.26181,-16.69112,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Praça do Avião</name>
+      <styleUrl>#icon-1899-F57C00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.269353,-16.671229,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parque Areiao Revitalização</name>
+      <styleUrl>#icon-1899-F57C00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.2533632,-16.7040654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Locomotiva Parada</name>
+      <styleUrl>#icon-1899-F57C00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.261216,-16.663401,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

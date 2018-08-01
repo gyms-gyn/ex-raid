@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ginásios ExRAID</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Morena Dos Olhos Azuis</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.249984,-16.694688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Praça das Artes</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.234199,-16.704985,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alameda das Rosas</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.275239,-16.678919,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fonte Dos Buritis</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.2754,-16.677221,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escultura Figura Regional de Gilvan Cabral</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.243345,-16.677165,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Placa Praça T-25</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.265204,-16.712062,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A Grávida</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.242308,-16.67634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escultura Casca de Gustav Ritter</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.244537,-16.676837,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chafariz T-25</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.265436,-16.712216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Beatles</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.249258,-16.694627,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estátua Carmo Bernades</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.194917,-16.740008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marco Praça Bandeiras</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.311044,-16.705909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parquinho</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.257875,-16.594743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grafite Leão Zoobotanico</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.273823,-16.678728,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Academia Ao Ar Livre Praça Do Bairro Da Vitória </name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -49.346501,-16.602234,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

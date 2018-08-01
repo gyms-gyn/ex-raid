@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>S2 L14</name>
+    <Style id="poly-0288D1-1200-0-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00d18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0288D1-1200-0-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00d18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0288D1-1200-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0288D1-1200-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0288D1-1200-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name/>
+      <description><![CDATA[description: <br>fill-opacity: 0.2<br>stroke-width: 1]]></description>
+      <styleUrl>#poly-0288D1-1200-0</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value/>
+        </Data>
+        <Data name="fill-opacity">
+          <value>0.2</value>
+        </Data>
+        <Data name="stroke-width">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>
